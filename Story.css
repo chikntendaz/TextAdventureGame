@@ -1,0 +1,31 @@
+body{
+  background-color: black;
+}
+
+div{
+  display: none;
+  font-family: cursive;
+  font-size: 18pt;
+  text-align: center;
+}
+
+a:hover{
+  text-align: center;
+  color:red;
+  font-weight: bold;
+}
+
+.p1{
+  color: yellow;
+  font-family:serif;
+  font-size: 30px;
+}
+
+#inv_box{
+  display:flex;
+  color:black;
+  background:red;
+  position: fixed;
+  bottom: 50px;
+  right: 50px;
+}
